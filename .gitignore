@@ -1,4 +1,8 @@
 node_modules
 config.json
 package-lock.json
+<<<<<<< HEAD
 .gitignore
+=======
+.gitignore
+>>>>>>> 84d4460cfcfca4850cf681cdfe84f2833cbd9b6e
